@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "BiFET Day2"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2019-07-26 22:00:00
+title:      "BiFET Day2 HTML"
+subtitle:   
+date:       2019-07-27 23:00:00
 author:     "AnselYao"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
