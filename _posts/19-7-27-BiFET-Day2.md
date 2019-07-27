@@ -28,14 +28,14 @@ tags:
 HTML标签可以拥有属性，属性提供了有关HTML元素的更多信息
 属性总是在开始标签中规定 name=“value”
 
-##HTML注释
-<!-- ... -->
+## HTML注释
+\<!-- ... -->
 
-##HTML样式
+## HTML样式
 style属性提供了一种改变所有HTML元素的样式的通用方法。
 样式是HTML4引入的，它是一种新的首选的改变HTML元素样式的方式。通过HTML样式，能够通过使用style属性直接将样式添加到HTML元素，或者间接地在独立的样式表中（CSS文件）进行定义
-*背景颜色* <body style="background-color:yellow">
-*字体、颜色、大小* <p style="font-family:arial;color:red;font-size:20px;">A paragraph.</p>
-*文本对齐* <h1 style="text-align:center">This is a heading</h1>
+*背景颜色* \<body style="background-color:yellow">
+*字体、颜色、大小* \<p style="font-family:arial;color:red;font-size:20px;">A paragraph.</p>
+*文本对齐* \<h1 style="text-align:center">This is a heading</h1>
 
 
