@@ -17,7 +17,7 @@ tags:
 
 段落 \<p>...\</p>
 
-链接 \<a href="http://github.com/"\>...\</a>
+链接 \<a href="http://github.com/\"\>...\</a>
 
 图像 \<img src="w3school.jpg" width="104" height="142" />
 
@@ -43,10 +43,10 @@ style属性提供了一种改变所有HTML元素的样式的通用方法
 
 样式是HTML4引入的，它是一种新的首选的改变HTML元素样式的方式。通过HTML样式，能够通过使用style属性直接将样式添加到HTML元素，或者间接地在独立的样式表中（CSS文件）进行定义
 
-*背景颜色* \<body style="background-color:yellow"\>
+*背景颜色* \<body style="background-color:yellow">
 
-*字体、颜色、大小* \<p style="font-family:arial;color:red;font-size:20px;"\>A paragraph.\</p\>
+*字体、颜色、大小* \<p style="font-family:arial;color:red;font-size:20px;">A paragraph.\</p>
 
-*文本对齐* \<h1 style="text-align:center">This is a heading</h1>
+*文本对齐* \<h1 style="text-align:center">This is a heading\</h1>
 
 
