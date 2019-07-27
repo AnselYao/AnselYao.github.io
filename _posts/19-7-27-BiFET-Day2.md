@@ -13,11 +13,11 @@ tags:
 ---
 ## HTML标签
 
-标题 \<h1>...</h1> \#h1-h6
+标题 \<h1>...\</h1> \#h1-h6
 
-段落 \<p>...</p>
+段落 \<p>...\</p>
 
-链接 \<a href="http://github.com/">...</a>
+链接 \<a href="http://github.com/">...\</a>
 
 图像 \<img src="w3school.jpg" width="104" height="142" />
 
