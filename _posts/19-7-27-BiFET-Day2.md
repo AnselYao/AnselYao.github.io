@@ -17,7 +17,7 @@ tags:
 
 段落 \<p>...\</p>
 
-链接 \<a href="http://github.com/">...\</a>
+链接 \<a href="http://github.com/"\>...\</a>
 
 图像 \<img src="w3school.jpg" width="104" height="142" />
 
